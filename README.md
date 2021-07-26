@@ -1,0 +1,17 @@
+This is a README.md file 
+----------------------------------------------
+
+This file is for Google Homepage Project for The Odin Project.
+
+----------------------------------------------
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   README.md
+#
